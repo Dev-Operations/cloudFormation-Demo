@@ -100,7 +100,7 @@
 		},
 					
 	"Resources" : {
-	"comments" : "/*EC2Instance could be changed to Web1*/",
+	
 	     "EC2Instance" : {
 		     "Type" : "AWS::EC2::Instance",
 			 "Properties" : {
